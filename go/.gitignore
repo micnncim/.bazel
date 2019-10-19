@@ -1,0 +1,11 @@
+/bazel-bin
+/bazel-genfiles
+/bazel-out
+/bazel-<<PROJECT>>
+/bazel-testlogs
+
+/bin
+
+*.pb.go
+*.pb.validate.go
+*.mock.go
