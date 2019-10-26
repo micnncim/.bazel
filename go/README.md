@@ -8,4 +8,5 @@ A template for Bazel with Go.
 | ---------------- | ----------------- |
 | `<<PROJECT>>`    | The project name  |
 | `<<OWNER>>`      | The owner name    |
+| `<<BAZEL_VERSION>>` | The version of Bazel |
 | `<<GO_VERSION>>` | The version of Go |
